@@ -13,6 +13,15 @@ Billing Summary: The total price is dynamically calculated and updated, includin
 Proceed to Checkout: Users can navigate to the checkout page after reviewing their cart.
 Responsive Design: The interface is designed to be responsive, ensuring optimal user experience on all devices.
 Local Storage Integration: Cart data is saved in the browser's localStorage, ensuring persistence across page reloads.
+
+
+
+
+
+
+
+
+
 Sukun-Store-Cart-System/
 ├── cart/
 │   ├── index.html         # Cart page HTML file
